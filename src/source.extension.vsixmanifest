@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="MarkdownEditor2022.d397244e-69f5-4bac-a3be-e6e7af513d3f" Version="1.0.0" Language="en-US" Publisher="Mads Kristensen" />
+    <DisplayName>Markdown Editor v2</DisplayName>
+    <Description>A full featured Markdown editor with live preview</Description>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)" />
+  </Installation>
+</PackageManifest>
